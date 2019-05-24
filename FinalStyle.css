@@ -1,0 +1,35 @@
+  .row{
+    height: 800px;
+    width: 100%;
+
+  }
+
+  .col{
+    height: 100%;
+    width: 49.5%;
+    display: inline-block;
+    border: 3px solid Red;
+
+  }
+
+  .background{
+    background-color: #003300;
+    
+  }
+
+  #JeromeASF{
+    background-image: url(Jerry.jpg);
+    background-size: cover;
+  }
+
+ #Ninja{
+   background-image: url(Ninja.jpg);
+   background-size: cover;
+ }
+
+ #DudePerfect{
+   background-image: url(dudeperfect);
+   background-size: cover;
+
+
+ }
