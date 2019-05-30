@@ -1,25 +1,29 @@
+body{
+  background-color: #003300;
+}
+
   .row{
-    height: 800px;
+    height: 750px;
     width: 100%;
+
 
   }
 
   .col{
     height: 100%;
-    width: 49.5%;
+    width: 49.4%;
     display: inline-block;
     border: 3px solid Red;
 
-  }
-
-  .background{
-    background-color: #003300;
 
   }
-
   .header{
   color: red;
 
+  }
+  h1{
+    color: Red;
+    font-size: 50px;
   }
 
   #JeromeASF{
@@ -37,4 +41,12 @@
    background-size: cover;
 
 
+ }
+ #MiniLadd{
+   background-image: url(MiniLadd.jpg);
+   background-size: cover;
+ }
+ #FineBrothers{
+   background-image: url(FineBrothers.jpg);
+   background-size: cover;
  }
