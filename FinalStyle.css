@@ -26,6 +26,8 @@ body{
     font-size: 50px;
   }
 
+
+ }
   #JeromeASF{
     background-image: url(Jerry.jpg);
     background-size: cover;
@@ -49,4 +51,11 @@ body{
  #FineBrothers{
    background-image: url(FineBrothers.jpg);
    background-size: cover;
+ }
+ #Marshmello{
+   background-image: url(Marshmello.jpg);
+background-size: cover;
+ }
+ #Description{
+   height: 750px
  }
